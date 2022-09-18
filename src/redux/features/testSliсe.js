@@ -5,6 +5,7 @@ const initialState = {
   loading: false,
   error: false,
   indexTest: -1,
+  inputValue: "",
 };
 
 export const getTests = createAsyncThunk(
@@ -27,6 +28,10 @@ export const testSlice = createSlice({
     setIndexTest: (state, action) => {
       state.indexTest = action.payload;
     },
+    setInputValue: (state, action) => {
+      state.inputValue = action.payload;
+      console.log(state.inputValue);
+    },
   },
   extraReducers: {
     [getTests.pending]: (state) => {
@@ -43,5 +48,5 @@ export const testSlice = createSlice({
   },
 });
 
-export const { setTests, setIndexTest } = testSlice.actions;
+export const { setTests, setIndexTest, setInputValue } = testSlice.actions;
 export default testSlice.reducer;

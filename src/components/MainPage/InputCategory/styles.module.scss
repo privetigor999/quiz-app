@@ -1,9 +1,14 @@
 .inputCategory {
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: space-between;
   width: 1200px;
   margin-bottom: 30px;
+  p {
+    color: #ffffff;
+    margin-left: 10px;
+    font-size: 20px;
+  }
   .inputBlock {
     display: flex;
     align-items: center;
@@ -20,11 +25,14 @@
       transition: width 0.2s ease-in-out;
       margin-right: 220px;
     }
-    .loupe {
+    .loupe,
+    .clear {
       position: absolute;
       width: 20px;
       height: 20px;
       right: 230px;
+    }
+    .clear {
       cursor: pointer;
     }
     .inputField:focus {

@@ -9,7 +9,7 @@ import Quiz from "../Quiz/Quiz";
 
 const TestsList = () => {
   const dispatch = useDispatch();
-  const { tests, loading, error, indexTest } = useSelector(
+  const { tests, loading, error, indexTest, inputValue } = useSelector(
     (state) => state.tests
   );
   React.useEffect(() => {
@@ -20,7 +20,11 @@ const TestsList = () => {
       {loading && <Loading />}
       {error && <Error />}
       {indexTest < 0 ? (
-        tests?.map((test) => <Test key={test.id} {...test} />)
+        tests
+          ?.filter((test) =>
+            test.name.toLowerCase().includes(inputValue.toLowerCase())
+          )
+          .map((test) => <Test key={test.id} {...test} />)
       ) : (
         <Quiz />
       )}
