@@ -1,0 +1,44 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 1200px;
+  height: 80px;
+  color: #ffffff;
+  font-family: "Exo 2", sans-serif;
+  p {
+    font-size: 26px;
+    transition: transform 0.2s ease-in-out;
+    cursor: pointer;
+  }
+  p:hover {
+    color: antiquewhite;
+    transform: scale(1.2);
+    text-decoration: underline;
+    text-decoration-color: antiquewhite;
+  }
+  .rigthSideBlock {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+}
+.listItem {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 26px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+  padding: 0 10px;
+}
+.listItem:hover {
+  color: #faebd7;
+  transform: scale(1.2);
+  text-decoration: underline;
+  text-decoration-color: antiquewhite;
+}
+.listItem:active {
+  color: darken($color: #faebd7, $amount: 10);
+  text-decoration-color: darken($color: #faebd7, $amount: 10);
+}

@@ -1,0 +1,32 @@
+.whiteWrapper,
+.blackWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  border-radius: 10px;
+  width: 380px;
+  height: 200px;
+  background: rgb(218, 218, 189);
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+  b {
+    font-size: 28px;
+    flex: 1;
+  }
+}
+
+.whiteWrapper {
+  color: #ffffff;
+}
+
+.blackWrapper {
+  color: #000000;
+}
+
+.whiteWrapper:hover,
+.blackWrapper:hover {
+  transform: translateY(-5px);
+  box-shadow: 5px 5px 14px #fff;
+}

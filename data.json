@@ -1,0 +1,311 @@
+[
+  {
+    "id": 1,
+    "category": 1,
+    "name": "Страны",
+    "header_image": "https://sun9-west.userapi.com/sun9-66/s/v1/ig2/OXVA6r3cXeg8_p6xAiNfHFi2ismi2-4CRsuED94aToYTH1jIQqgTubuso7KIaiiHohoO7YGWGOVUwt_QUriZz7oT.jpg?size=380x200&quality=95&type=album",
+    "color": "black",
+    "questions": [
+      {
+        "questionText": "Назовите столицу Египта",
+        "answerImage": "https://sun9-east.userapi.com/sun9-41/s/v1/ig2/CFyCVpaEzty1wlmSc3fPGO0xemsIiBYijVdFCk3gntkGgekgVJYElydQRx-wcEwMLgBHrTlZF_e7n3fGVvxsOncS.jpg?size=380x200&quality=95&type=album",
+        "answers": [
+          {
+            "answerText": "Каир",
+            "isCorrect": true
+          },
+          {
+            "answerText": "Мельбурн",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Лондон",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Москва",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionText": "Столицей какого государства является Лиссабон?",
+        "answerImage": "https://sun9-east.userapi.com/sun9-58/s/v1/ig2/_Nrm5nFXpTcjrbzisxsDoMrv-wZ9YZOy6NejDDdeIKyPv_q3l_ZcpUvl2fviPVay5RMSm2ktw_62Gzv8qSGpDR64.jpg?size=380x200&quality=95&type=album",
+        "answers": [
+          {
+            "answerText": "Франция",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Испания",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Португалия",
+            "isCorrect": true
+          },
+          {
+            "answerText": "Монако",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionText": "Контур какой страны перед вами?",
+        "answerImage": "https://sun9-north.userapi.com/sun9-77/s/v1/ig2/im2Cj79V_U4sk-h2ip5erIiJyydR6wWKvzXPiJiSjoB7DXRyLtsixFoE7IUAwDJKE6yBB5Gvzs7PeR0znOQTEGPS.jpg?size=1140x600&quality=95&type=album",
+        "answers": [
+          {
+            "answerText": "Пакистан",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Япония",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Таиланд",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Индия",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": 2,
+    "name": "Спорт",
+    "header_image": "https://sun9-east.userapi.com/sun9-32/s/v1/ig2/rBV9pnC6Gluo3cGgFA1CButnC9MEodqAhtyL9OwoOklsbcjKNsGrLajLe_K2p13kEEaDHhQkQIYU17P5dx9gnY2r.jpg?size=380x200&quality=95&type=album",
+    "color": "white",
+    "questions": [
+      {
+        "questionText": "Назовите столицу Египта",
+        "answerImage": "https://sun9-west.userapi.com/sun9-66/s/v1/ig2/OXVA6r3cXeg8_p6xAiNfHFi2ismi2-4CRsuED94aToYTH1jIQqgTubuso7KIaiiHohoO7YGWGOVUwt_QUriZz7oT.jpg?size=380x200&quality=95&type=album",
+        "answers": [
+          {
+            "answerText": "Каир",
+            "isCorrect": true
+          },
+          {
+            "answerText": "Мельбурн",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Лондон",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Москва",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionText": "Назовите столицу Великобритании",
+        "answerImage": "https://sun9-west.userapi.com/sun9-66/s/v1/ig2/OXVA6r3cXeg8_p6xAiNfHFi2ismi2-4CRsuED94aToYTH1jIQqgTubuso7KIaiiHohoO7YGWGOVUwt_QUriZz7oT.jpg?size=380x200&quality=95&type=album",
+        "answers": [
+          {
+            "answerText": "Каир",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Мельбурн",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Лондон",
+            "isCorrect": true
+          },
+          {
+            "answerText": "Москва",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": 3,
+    "name": "Кино",
+    "header_image": "https://sun9-west.userapi.com/sun9-10/s/v1/ig2/1Un3x83HMFOMCUQh_7ViCCGyRLpnRZVOJKJlngCPD7wae5MDnkUCNKF7ZPj0TJmIApoBDoIeox3ZhXVMBRLznAaQ.jpg?size=380x200&quality=95&type=album",
+    "color": "white",
+    "questions": [
+      {
+        "questionText": "Назовите столицу Египта",
+        "answerImage": "https://sun9-west.userapi.com/sun9-66/s/v1/ig2/OXVA6r3cXeg8_p6xAiNfHFi2ismi2-4CRsuED94aToYTH1jIQqgTubuso7KIaiiHohoO7YGWGOVUwt_QUriZz7oT.jpg?size=380x200&quality=95&type=album",
+        "answers": [
+          {
+            "answerText": "Каир",
+            "isCorrect": true
+          },
+          {
+            "answerText": "Мельбурн",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Лондон",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Москва",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionText": "Назовите столицу Великобритании",
+        "answerImage": "https://sun9-west.userapi.com/sun9-66/s/v1/ig2/OXVA6r3cXeg8_p6xAiNfHFi2ismi2-4CRsuED94aToYTH1jIQqgTubuso7KIaiiHohoO7YGWGOVUwt_QUriZz7oT.jpg?size=380x200&quality=95&type=album",
+        "answers": [
+          {
+            "answerText": "Каир",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Мельбурн",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Лондон",
+            "isCorrect": true
+          },
+          {
+            "answerText": "Москва",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": 4,
+    "name": "Книги",
+    "header_image": "https://sun9-east.userapi.com/sun9-43/s/v1/ig2/MXzoGe5LujcAMpokAX8HtR5JtbzpuSvzWs3fWs6VMlycqauCOnKEdJBEHG3jNCsGaOCIHR6B2eNriwKe7gJTFaRl.jpg?size=380x200&quality=95&type=album",
+    "color": "white",
+    "questions": [
+      {
+        "questionText": "Назовите столицу Египта",
+        "answerImage": "https://sun9-west.userapi.com/sun9-66/s/v1/ig2/OXVA6r3cXeg8_p6xAiNfHFi2ismi2-4CRsuED94aToYTH1jIQqgTubuso7KIaiiHohoO7YGWGOVUwt_QUriZz7oT.jpg?size=380x200&quality=95&type=album",
+        "answers": [
+          {
+            "answerText": "Каир",
+            "isCorrect": true
+          },
+          {
+            "answerText": "Мельбурн",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Лондон",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Москва",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionText": "Назовите столицу Великобритании",
+        "answerImage": "https://sun9-west.userapi.com/sun9-66/s/v1/ig2/OXVA6r3cXeg8_p6xAiNfHFi2ismi2-4CRsuED94aToYTH1jIQqgTubuso7KIaiiHohoO7YGWGOVUwt_QUriZz7oT.jpg?size=380x200&quality=95&type=album",
+        "answers": [
+          {
+            "answerText": "Каир",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Мельбурн",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Лондон",
+            "isCorrect": true
+          },
+          {
+            "answerText": "Москва",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": 5,
+    "name": "Мульфильмы",
+    "header_image": "https://sun9-west.userapi.com/sun9-70/s/v1/ig2/DtoBAuwzEi2GM9mbsgAZkWVruzAFVbu9Bbi3TB_DlC6dNlGpaqKOdUpimQQ7zSHzfpS47-qwCh48dV-07G9dBLbK.jpg?size=380x200&quality=95&type=album",
+    "color": "black",
+    "questions": [
+      {
+        "questionText": "Назовите столицу Египта",
+        "answerImage": "https://sun9-west.userapi.com/sun9-66/s/v1/ig2/OXVA6r3cXeg8_p6xAiNfHFi2ismi2-4CRsuED94aToYTH1jIQqgTubuso7KIaiiHohoO7YGWGOVUwt_QUriZz7oT.jpg?size=380x200&quality=95&type=album",
+        "answers": [
+          {
+            "answerText": "Каир",
+            "isCorrect": true
+          },
+          {
+            "answerText": "Мельбурн",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Лондон",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Москва",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionText": "Назовите столицу Великобритании",
+        "answerImage": "https://sun9-west.userapi.com/sun9-66/s/v1/ig2/OXVA6r3cXeg8_p6xAiNfHFi2ismi2-4CRsuED94aToYTH1jIQqgTubuso7KIaiiHohoO7YGWGOVUwt_QUriZz7oT.jpg?size=380x200&quality=95&type=album",
+        "answers": [
+          {
+            "answerText": "Каир",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Мельбурн",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Лондон",
+            "isCorrect": true
+          },
+          {
+            "answerText": "Москва",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionText": "Назовите столицу Великобритании",
+        "answerImage": "https://sun9-west.userapi.com/sun9-66/s/v1/ig2/OXVA6r3cXeg8_p6xAiNfHFi2ismi2-4CRsuED94aToYTH1jIQqgTubuso7KIaiiHohoO7YGWGOVUwt_QUriZz7oT.jpg?size=380x200&quality=95&type=album",
+        "answers": [
+          {
+            "answerText": "Каир",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Мельбурн",
+            "isCorrect": false
+          },
+          {
+            "answerText": "Лондон",
+            "isCorrect": true
+          },
+          {
+            "answerText": "Москва",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+]

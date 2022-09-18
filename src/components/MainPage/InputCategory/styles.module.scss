@@ -1,0 +1,34 @@
+.inputCategory {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 1200px;
+  margin-bottom: 30px;
+  .inputBlock {
+    display: flex;
+    align-items: center;
+    position: relative;
+    .inputField {
+      border: none;
+      width: 140px;
+      height: 30px;
+      border: none;
+      border-radius: 10px;
+      font-size: 20px;
+      padding: 0 40px 0 10px;
+      outline: none;
+      transition: width 0.2s ease-in-out;
+      margin-right: 220px;
+    }
+    .loupe {
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      right: 230px;
+      cursor: pointer;
+    }
+    .inputField:focus {
+      width: 220px;
+    }
+  }
+}
